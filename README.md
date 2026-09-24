@@ -28,4 +28,6 @@ WHEN
 OPERATION RANGE
 <img width="1913" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/153bb0d0-45e6-4956-b5e9-779022cad9eb" />
 
+LOOPS FOR
+<img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/8ab15166-faaf-480b-861c-4b8bcd52f0c9" />
 
