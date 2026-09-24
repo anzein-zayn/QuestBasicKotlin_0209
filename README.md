@@ -43,3 +43,5 @@ DEFAULT PARAMETER
 FUNCTION TANPA RETURN
 <img width="1915" height="1078" alt="gambar" src="https://github.com/user-attachments/assets/de6d18c2-6a8b-4daa-945d-cbd1fa8e301c" />
 
+LAMBDA
+<img width="1918" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/e7f5f645-5aa5-444b-891f-3b13c568172a" />
