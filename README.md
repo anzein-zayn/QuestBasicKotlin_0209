@@ -34,3 +34,6 @@ LOOPS FOR
 DEKLARATION FUNCTION
 <img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/45a1120a-3068-4b7d-b1d4-e5886f76a655" />
 
+NAMED ARGUMENTS
+<img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/51447a3b-6770-4efe-a763-a1dbb0d14e29" />
+
