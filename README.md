@@ -57,3 +57,7 @@ ACCESS PROPERTIES
 
 DEKALARASI MEMBER FUNCTION
 <img width="1919" height="1077" alt="gambar" src="https://github.com/user-attachments/assets/fcb40fd6-6431-40ee-8652-606cc730555c" />
+
+DATA CLASS & COMPARE
+<img width="1916" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/2b680f25-f561-47b8-ad63-8163bacc9efe" />
+
