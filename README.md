@@ -17,4 +17,6 @@ SET
 
 MAP
 <img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/9f40e086-54ce-4468-88f3-c23a7b589924" />
+<img width="1915" height="1077" alt="gambar" src="https://github.com/user-attachments/assets/b969fc11-9c14-45a9-99cd-95e81ea405e2" />
+
 
