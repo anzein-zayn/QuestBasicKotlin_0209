@@ -22,3 +22,7 @@ MAP
 IF
 <img width="1902" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/2a552948-bf88-4a71-b15b-bbb6e6aa50d2" />
 
+WHEN
+<img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/2087618a-9282-4d83-aab4-776fcb5a8db1" />
+
+
