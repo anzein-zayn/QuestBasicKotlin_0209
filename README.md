@@ -31,3 +31,6 @@ OPERATION RANGE
 LOOPS FOR
 <img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/8ab15166-faaf-480b-861c-4b8bcd52f0c9" />
 
+DEKLARATION FUNCTION
+<img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/45a1120a-3068-4b7d-b1d4-e5886f76a655" />
+
