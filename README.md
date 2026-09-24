@@ -61,3 +61,5 @@ DEKALARASI MEMBER FUNCTION
 DATA CLASS & COMPARE
 <img width="1916" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/2b680f25-f561-47b8-ad63-8163bacc9efe" />
 
+COPY INSTANCE
+<img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/68cec261-52eb-435f-97ab-d60f99da4091" />
