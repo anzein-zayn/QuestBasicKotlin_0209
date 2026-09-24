@@ -48,3 +48,6 @@ LAMBDA
 
 CLASS & PROPERTIES
 <img width="1919" height="1078" alt="gambar" src="https://github.com/user-attachments/assets/636e1512-ef22-448d-a007-22e2e6991c7f" />
+
+INSTANCE
+<img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/1df0f150-c493-4a55-b83a-72e0afaa9172" />
