@@ -39,3 +39,7 @@ NAMED ARGUMENTS
 
 DEFAULT PARAMETER
 <img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/ed72311e-5b92-4b20-8875-076c5a17636f" />
+
+FUNCTION TANPA RETURN
+<img width="1915" height="1078" alt="gambar" src="https://github.com/user-attachments/assets/de6d18c2-6a8b-4daa-945d-cbd1fa8e301c" />
+
