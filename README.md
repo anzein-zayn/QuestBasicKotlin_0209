@@ -45,3 +45,6 @@ FUNCTION TANPA RETURN
 
 LAMBDA
 <img width="1918" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/e7f5f645-5aa5-444b-891f-3b13c568172a" />
+
+CLASS & PROPERTIES
+<img width="1919" height="1078" alt="gambar" src="https://github.com/user-attachments/assets/636e1512-ef22-448d-a007-22e2e6991c7f" />
