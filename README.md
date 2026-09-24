@@ -14,3 +14,7 @@ LIST
 
 SET
 <img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/977cd8e4-5fe0-47ac-b160-77a2a553ac07" />
+
+MAP
+<img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/9f40e086-54ce-4468-88f3-c23a7b589924" />
+
