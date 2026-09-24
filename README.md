@@ -63,3 +63,18 @@ DATA CLASS & COMPARE
 
 COPY INSTANCE
 <img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/68cec261-52eb-435f-97ab-d60f99da4091" />
+
+NULL TYPE
+<img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/6b25173d-96dd-412a-96b3-6fb754a3a61b" />
+
+CHECK NULL VAR
+<img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/c637a39c-a42f-4dcb-9b6f-f0a7fe31e7f3" />
+
+<img width="1918" height="1076" alt="gambar" src="https://github.com/user-attachments/assets/bef3aec0-5b5c-4169-bc94-a5e1eed6339a" />
+SAFE CALLs
+<img width="1900" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/57a31a30-055a-44e1-bfa2-151df2d2f8fb" />
+
+ELVIS OPERATION
+<img width="1912" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/bd47e1c1-86d4-4fbb-8e7e-9c5b5f68a40f" />
+
+
