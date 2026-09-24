@@ -54,3 +54,6 @@ INSTANCE
 
 ACCESS PROPERTIES
 <img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/a06cda86-e085-4513-8331-22f4c06f894c" />
+
+DEKALARASI MEMBER FUNCTION
+<img width="1919" height="1077" alt="gambar" src="https://github.com/user-attachments/assets/fcb40fd6-6431-40ee-8652-606cc730555c" />
