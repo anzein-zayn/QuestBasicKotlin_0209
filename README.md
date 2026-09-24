@@ -11,3 +11,6 @@ DEKLARASI VARIABEL
 
 LIST
 <img width="1916" height="1078" alt="gambar" src="https://github.com/user-attachments/assets/9f641f70-b351-45e2-aab8-c2fd3788a571" />
+
+SET
+<img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/977cd8e4-5fe0-47ac-b160-77a2a553ac07" />
