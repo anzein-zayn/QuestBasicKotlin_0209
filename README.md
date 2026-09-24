@@ -25,4 +25,7 @@ IF
 WHEN
 <img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/2087618a-9282-4d83-aab4-776fcb5a8db1" />
 
+OPERATION RANGE
+<img width="1913" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/153bb0d0-45e6-4956-b5e9-779022cad9eb" />
+
 
